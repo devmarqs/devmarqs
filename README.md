@@ -16,26 +16,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=devmarqs&show_icons=true&theme=radical" alt="Estatísticas">
 </p>
 
-<style>
-  .statistic-item rect {
-    animation: ledGlow 2s infinite;
-  }
-
-  @keyframes ledGlow {
-    0%, 100% {
-      fill: rgb(255, 0, 0);
-    }
-    25% {
-      fill: rgb(0, 255, 0);
-    }
-    50% {
-      fill: rgb(0, 0, 255);
-    }
-    75% {
-      fill: rgb(255, 255, 0);
-    }
-  }
-</style>
+<p align="center">
+  <img src="https://emojicombos.com/emoji%20fire%20loop.gif" width="24" height="24">
+  <img src="https://emojicombos.com/emoji%20sparkles%20loop.gif" width="24" height="24">
+  <img src="https://emojicombos.com/emoji%20zap%20loop.gif" width="24" height="24">
+  <img src="https://emojicombos.com/emoji%20bulb%20loop.gif" width="24" height="24">
+</p>
 
 ## 📫 Contato
 
