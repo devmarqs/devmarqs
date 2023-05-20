@@ -1,10 +1,6 @@
 <h1 align="center">Paloma</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LED-%E2%9A%A1-brightgreen" alt="LED">
-</p>
-
-<p align="center">
   <img src="https://github.com/devmarqs/devmarqs/raw/main/assets/banner.png" alt="Banner">
 </p>
 
@@ -20,12 +16,6 @@
   <img src="https://github.com/devmarqs/devmarqs/raw/main/assets/react.png" alt="React" width="60" height="60">
 </p>
 
-## 🚀 Projetos
-
-- [Projeto 1](link-para-projeto1) - Descrição do projeto 1.
-- [Projeto 2](link-para-projeto2) - Descrição do projeto 2.
-- [Projeto 3](link-para-projeto3) - Descrição do projeto 3.
-
 ## 📈 Estatísticas
 
 <p align="center">
@@ -39,8 +29,3 @@
   <a href="https://www.linkedin.com/in/seu-usuario"><img src="https://github.com/seu-usuario/seu-usuario/raw/main/assets/linkedin.png" alt="LinkedIn" width="30" height="30"></a>
   <a href="https://twitter.com/seu-usuario"><img src="https://github.com/seu-usuario/seu-usuario/raw/main/assets/twitter.png" alt="Twitter" width="30" height="30"></a>
 </p>
-
-## 📫 Contato
-
-- [Website](https://seusite.com)
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
