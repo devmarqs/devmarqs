@@ -1,7 +1,7 @@
 <h1 align="center">Paloma</h1>
 
 <p align="center">
-  <img src="https://github.com/devmarqs/devmarqs/raw/main/assets/cuteCat.mp4" alt="Banner">
+  <img src="https://github.com/devmarqs/devmarqs/raw/main/cuteCat.mp4" alt="Banner">
 </p>
 
 <p align="center">Olá! Sou uma desenvolvedora apaixonada por código e tecnologia. Eu adoro criar coisas incríveis e compartilhar conhecimento com a comunidade.</p>
