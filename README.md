@@ -1,28 +1,36 @@
-# Paloma
+<h1 align="center">Paloma</h1>
 
-[![LED](https://img.shields.io/badge/LED-%E2%9A%A1-brightgreen)](https://github.com/devmarqs)
+<p align="center">
+  <img src="https://img.shields.io/badge/LED-%E2%9A%A1-brightgreen" alt="LED">
+</p>
 
-## Sobre mim
+<p align="center">
+  <img src="https://github.com/devmarqs/devmarqs/raw/main/assets/animation.gif" alt="Animação">
+</p>
 
-Olá! Meu nome é Paloma, uma desenvolvedora apaixonada por código e tecnologia. Eu adoro criar coisas incríveis e compartilhar conhecimento com a comunidade.
+<p align="center">Olá! Meu nome é Paloma, uma desenvolvedora apaixonada por código e tecnologia. Eu adoro criar coisas incríveis e compartilhar conhecimento com a comunidade.</p>
 
-## Habilidades
+## 🎨 Habilidades
 
 - 💻 Linguagens de programação: Python, JavaScript
-- 🌐 Desenvolvimento web: HTML, CSS
-- 📱 Desenvolvimento de aplicativos móveis:
+- 🌐 Desenvolvimento web: HTML, CSS, React
+- 📱 Desenvolvimento de aplicativos móveis: React Native
 - ⚙️ Banco de dados: SQL, MongoDB
-- 🚀 Outras habilidades: Git
+- 🚀 Outras habilidades: Git, Docker
 
-## Projetos
+## 🚀 Projetos
+
 - [Projeto 1](link-para-projeto1) - Descrição do projeto 1.
 - [Projeto 2](link-para-projeto2) - Descrição do projeto 2.
 - [Projeto 3](link-para-projeto3) - Descrição do projeto 3.
 
-## Estatísticas
+## 📈 Estatísticas
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=devmarqs&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devmarqs&show_icons=true&theme=radical" alt="Estatísticas">
+</p>
 
-## Contato
+## 📫 Contato
+
 - [Website](https://seusite.com)
 - [LinkedIn](https://www.linkedin.com/in/seu-usuario)
