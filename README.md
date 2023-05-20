@@ -17,10 +17,10 @@
 </p>
 
 <p align="center">
-  <img src="https://emojicombos.com/emoji%20fire%20loop.gif" width="24" height="24">
-  <img src="https://emojicombos.com/emoji%20sparkles%20loop.gif" width="24" height="24">
-  <img src="https://emojicombos.com/emoji%20zap%20loop.gif" width="24" height="24">
-  <img src="https://emojicombos.com/emoji%20bulb%20loop.gif" width="24" height="24">
+  <img src="https://i.imgur.com/1234567.gif" width="24" height="24">
+  <img src="https://i.imgur.com/abcdefg.gif" width="24" height="24">
+  <img src="https://i.imgur.com/hijklmn.gif" width="24" height="24">
+  <img src="https://i.imgur.com/opqrstuv.gif" width="24" height="24">
 </p>
 
 ## 📫 Contato
