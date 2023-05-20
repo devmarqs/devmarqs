@@ -1,20 +1,14 @@
-<h1 align="center">Paloma</h1>
-
-<p align="center">
-  <img src="https://github.com/devmarqs/devmarqs/raw/main/devmarqs/cuteCat.mp4" alt="Banner">
-</p>
-
-<p align="center">Olá! Sou uma desenvolvedora apaixonada por código e tecnologia. Eu adoro criar coisas incríveis e compartilhar conhecimento com a comunidade.</p>
-
 ## 🚀 Habilidades
 
-<p align="center">
-  <img src="https://github.com/devmarqs/devmarqs/raw/main/assets/python.png" alt="Python" width="60" height="60">
-  <img src="https://github.com/devmarqs/devmarqs/raw/main/assets/javascript.png" alt="JavaScript" width="60" height="60">
-  <img src="https://github.com/devmarqs/devmarqs/raw/main/assets/html.png" alt="HTML" width="60" height="60">
-  <img src="https://github.com/devmarqs/devmarqs/raw/main/assets/css.png" alt="CSS" width="60" height="60">
-  <img src="https://github.com/devmarqs/devmarqs/raw/main/assets/react.png" alt="React" width="60" height="60">
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Paloma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Paloma-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Paloma-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Paloma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Paloma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Paloma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Paloma-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
 
 ## 📈 Estatísticas
 
