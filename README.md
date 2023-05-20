@@ -10,25 +10,32 @@
 
 <p align="center">Olá! Meu nome é Paloma, uma desenvolvedora apaixonada por código e tecnologia. Eu adoro criar coisas incríveis e compartilhar conhecimento com a comunidade.</p>
 
-## 🎨 Habilidades
-
-- 💻 Linguagens de programação: Python, JavaScript
-- 🌐 Desenvolvimento web: HTML, CSS, React
-- 📱 Desenvolvimento de aplicativos móveis: React Native
-- ⚙️ Banco de dados: SQL, MongoDB
-- 🚀 Outras habilidades: Git, Docker
-
-## 🚀 Projetos
-
-- [Projeto 1](link-para-projeto1) - Descrição do projeto 1.
-- [Projeto 2](link-para-projeto2) - Descrição do projeto 2.
-- [Projeto 3](link-para-projeto3) - Descrição do projeto 3.
-
 ## 📈 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devmarqs&show_icons=true&theme=radical" alt="Estatísticas">
 </p>
+
+<style>
+  .statistic-item rect {
+    animation: ledGlow 2s infinite;
+  }
+
+  @keyframes ledGlow {
+    0%, 100% {
+      fill: rgb(255, 0, 0);
+    }
+    25% {
+      fill: rgb(0, 255, 0);
+    }
+    50% {
+      fill: rgb(0, 0, 255);
+    }
+    75% {
+      fill: rgb(255, 255, 0);
+    }
+  }
+</style>
 
 ## 📫 Contato
 
