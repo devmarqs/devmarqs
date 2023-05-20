@@ -21,7 +21,7 @@ Olá! Meu nome é Paloma, uma desenvolvedora apaixonada por código e tecnologia
 
 ## Estatísticas
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=devmarqs&show_icons=true&theme=radical)
 
 ## Contato
 - [Website](https://seusite.com)
